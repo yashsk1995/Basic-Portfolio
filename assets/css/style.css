@@ -1,0 +1,94 @@
+body{
+    background-image: url('assets/images/background.png');
+    background-repeat:repeat;
+}
+
+.header1{
+    height: 100px;
+    border-bottom: 2px solid #cccccc;
+    background: white;
+    
+}
+
+.div1{
+    background: #4aaaa5;
+    width: 350px;
+    height: 100px;
+    margin-left: 72px;    
+
+}
+
+.h11{
+   
+    font-size: 50px;
+    position: absolute;
+    top: 7%;
+    left: 18%;
+    margin-right: -70%;
+    transform: translate(-50%, -50%); 
+    color:white;
+}
+
+.button-posi{
+    margin-left:800px;
+    position: absolute;
+    top: 7%;
+    left: 18%;
+    margin-right: -70%;
+    transform: translate(-50%, -50%); 
+    
+}
+
+.btn{
+    font-size: 35px;
+    width: 400px;
+
+}
+
+.font1{
+    text-decoration: none;
+    color: #777777;
+}
+
+.main-cont{
+    width: 650px;
+    height:400px;
+    margin-top: 50px;
+    margin-left: 72px;
+    background: white;
+    float: left;
+}
+
+.aside1{
+    width: 270px;
+    height:200px;
+    margin-top: 50px;
+    margin-left: 180px;
+    background: white;
+    float: left;
+    
+}
+
+.h12{
+    width: 550px;
+    color: #4aaaa5;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-bottom: 2px solid #cccccc;
+}
+
+.img{
+    width: 150px;
+    height:120px;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+}
+
+.p1{
+    margin-left: 20px;
+    margin-top: 20px;
+    width:50px;
+    float: left;
+}
