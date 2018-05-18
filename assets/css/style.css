@@ -12,15 +12,15 @@ body{
 
 .main-div{
     width:1400px;
-    border-bottom: 2px solid #cccccc;
     background: white;
-    
+    border-bottom: 4px solid #cccccc;
 }
 
 .header1{
     width: 960px;
     margin-left: 175px;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    
     
 }
 
@@ -74,8 +74,8 @@ body{
     height:400px;
     margin-top: 10px;
     margin-bottom: 40px;
-    background: white;
-   border: 1px solid #dddddd;
+    background: #ffffff;
+    border: 2px solid #dddddd;
 }
 
 .boxform1{
@@ -95,7 +95,7 @@ body{
 
 .img{
     width: 200px;
-    height:170px;
+    height:200px;
     margin-left: 50px;
     margin-top: 20px;
     float: left;
