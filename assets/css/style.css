@@ -16,6 +16,7 @@ body{
     background: white;
     
 }
+
 .header1{
     width: 960px;
     margin-left: 175px;
@@ -71,7 +72,8 @@ body{
 .main-cont{
     width: 960px;
     height:400px;
-    margin-top: 50px;
+    margin-top: 10px;
+    margin-bottom: 40px;
     background: white;
    border: 1px solid #dddddd;
 }
@@ -101,13 +103,74 @@ body{
 }
 
 .img1{
-    width: 150px;
+    width: 180px;
     height:120px;
     margin-left: 50px;
     margin-top: 20px;
     float: left;
     padding: 0 20px 20px 0;
 }
+.box1{
+        width:180px;
+        height:35px;
+        background: #4aaaa5;
+        position: absolute;
+        top:270px;
+        left:226px;
+
+}
+.box2{
+    width:180px;
+    height:35px;
+    background: #4aaaa5;
+    position: absolute;
+    top:270px;
+    left:476px;
+
+}
+.box3{
+    width:180px;
+    height:35px;
+    background: #4aaaa5;
+    position: absolute;
+    top:270px;
+    left:726px;
+
+}
+.box4{
+    width:180px;
+    height:35px;
+    background: #4aaaa5;
+    position: absolute;
+    top:430px;
+    left:226px;
+
+}
+.box5{
+    width:180px;
+    height:35px;
+    background: #4aaaa5;
+    position: absolute;
+    top:430px;
+    left:480px;
+
+}
+.box-div-h1{
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    top:10px;
+}
+
+.img2{
+    width: 180px;
+    height:120px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 0 20px 20px 0;
+}
+
 
 
 .a1{
@@ -121,6 +184,14 @@ body{
     float: left;
     font-size: 22px;
     color:gray;
+}
+.p2{
+
+    width: 960px;
+    font-size: 22px;
+    color:gray;
+    
+
 }
 
 .footer1{
@@ -139,4 +210,16 @@ body{
 vertical-align: bottom;
 line-height: 120px;
 
+}
+
+.con-fonts{
+    color:#777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.con-btn{
+    background-color: #4aaaa5;
+    color:white;
+    width: 120px;
+    height: 35px;
 }
