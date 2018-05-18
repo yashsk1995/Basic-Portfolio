@@ -76,6 +76,9 @@ body{
    border: 1px solid #dddddd;
 }
 
+.boxform1{
+    width:860px;
+}
 
 .h12{
     width: 860px;
@@ -83,6 +86,9 @@ body{
     font-size: 30px;
     margin-left: 50px;
     border-bottom: 2px solid #cccccc;
+}
+.form1{
+    margin-left: 50px;
 }
 
 .img{
